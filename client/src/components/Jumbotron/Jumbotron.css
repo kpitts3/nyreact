@@ -1,0 +1,10 @@
+.jumbotron  {
+    background-color: blue !important;
+    color: white !important;
+    border-bottom: 5px solid yellow
+}
+
+.button {
+    background-color: yellow !important;
+    color: blue;
+}
